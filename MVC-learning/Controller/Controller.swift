@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  Controller.swift
 //  MVC-learning
 //
 //  Created by more on 18/03/2019.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class Controller: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
